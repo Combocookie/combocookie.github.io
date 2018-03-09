@@ -1,0 +1,12 @@
+/**
+*Project 1 - "Hello World!" in Java language
+*/
+
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello World!");
+    }
+  }
+/**
+*Finished! - Works
+*/
